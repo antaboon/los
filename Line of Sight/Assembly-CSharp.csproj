@@ -61,10 +61,11 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\Camerafollow.cs" />
-    <Compile Include="Assets\GunScript.cs" />
-    <Compile Include="Assets\PlayerSetup.cs" />
-    <Compile Include="Assets\scenehandler.cs" />
+    <Compile Include="Assets\HostGame.cs" />
+    <Compile Include="Assets\Scripts\Camerafollow.cs" />
+    <Compile Include="Assets\Scripts\GunScript.cs" />
+    <Compile Include="Assets\Scripts\PlayerSetup.cs" />
+    <Compile Include="Assets\Scripts\scenehandler.cs" />
     <Reference Include="UnityEditor.StandardEvents">
       <HintPath>C:/Users/HUSSAIN/los/Line of Sight/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
     </Reference>
